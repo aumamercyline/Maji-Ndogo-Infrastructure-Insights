@@ -45,3 +45,108 @@ This section presents key visualizations developed in Power BI to analyze water 
 
 ![Water Source Analysis](images/water-source-dashboard.png)
 *Overview of water source distribution and population served across Maji Ndogo*
+
+# 📊 Water Access & Infrastructure Visualizations
+
+This project presents a set of Power BI visualizations exploring water access, infrastructure distribution, and service delivery across different regions, provinces, and water sources.
+
+The visuals help uncover patterns, disparities, and relationships between population, cost, and infrastructure coverage.
+
+---
+
+## 1. 📌 Overall Visualizations Overview
+
+This section presents the full set of visual insights created in Power BI, showing relationships between regions, infrastructure types, and service delivery outcomes.
+
+![Overall Visualizations](images/full_visualizations.png)
+
+**Key insights:**
+- Comparison of infrastructure improvements across regions
+- Cost distribution per citizen across interventions
+- Identification of high and low performing areas
+- Overall patterns in water access and service delivery
+
+---
+
+## 2. 📍 Selected Province: Akatsi
+
+This visualization focuses on **Akatsi province** and how it performs compared to other provinces.
+
+![Akatsi Province Visualization](images/akatsi.png)
+
+**Insights:**
+- Akatsi shows **moderate infrastructure development**
+- It performs lower than top provinces in terms of coverage
+- Cost per citizen is relatively consistent but impact varies
+- Highlights need for targeted improvements
+
+**Relation to other insights:**
+- Compared to other provinces, Akatsi reflects mid-level service delivery
+- Helps identify inequality in infrastructure distribution
+- Shows where investment can improve regional balance
+
+---
+
+## 3. 📍 Selected Location Analysis
+
+This visualization zooms into a specific location to analyze local-level infrastructure and service patterns.
+
+![Location Visualization](images/location.png)
+
+**Insights:**
+- The selected location shows unique distribution patterns in service access
+- Infrastructure availability differs significantly from regional averages
+- Some services are concentrated while others are limited
+
+**Relation to other insights:**
+- Highlights gaps between local and provincial performance
+- Shows how regional averages can hide local inequalities
+- Supports targeted micro-level planning
+
+---
+
+## 4. 🚰 Shared Water Source Types Distribution
+
+This visualization shows how different water source types are distributed across towns.
+
+![Water Source Types](images/water_sources.png)
+
+**Insights:**
+- Shared water sources are unevenly distributed across regions
+- Some towns rely heavily on specific water systems
+- Boreholes and piped systems dominate in selected areas
+- Indicates infrastructure concentration patterns
+
+**Relation to other insights:**
+- Water source type strongly influences access levels
+- Helps explain differences in service quality across regions
+- Supports infrastructure diversification planning
+
+---
+
+## 5. 🌍 Harare Water Source: Wells Distribution
+
+This visualization focuses on **well water usage in Harare** and its relationship with other infrastructure metrics.
+
+![Harare Wells Visualization](images/harare_wells.png)
+
+**Insights:**
+- Wells remain a key water source in Harare
+- Distribution is uneven across sub-regions
+- Indicates reliance on decentralized water systems
+
+**Relation to other insights:**
+- Areas with higher well usage often have lower piped infrastructure coverage
+- Shows correlation between infrastructure gaps and alternative water sources
+- Helps identify priority areas for modernization
+
+---
+
+## 📌 Tools Used
+- Microsoft Excel (Data Cleaning & Preparation)
+- Power BI (Data Visualization)
+
+---
+
+## 📊 Summary
+These visualizations provide insights into water infrastructure distribution, highlighting disparities across provinces, locations, and water source types. They support data-driven decisions for improving access and resource allocation.
