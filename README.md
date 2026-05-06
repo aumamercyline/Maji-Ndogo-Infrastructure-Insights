@@ -1,2 +1,1 @@
-# Maji-Ndogo-Infrastructure-Insights
-Data-driven insights on water accessibility, crime trends, and budget allocation to support decision-making in Maji Ndogo.
+# Data-Driven Infrastructure Planning: Improving Water Access & Public Safety in Maji Ndogo Using Power BI
