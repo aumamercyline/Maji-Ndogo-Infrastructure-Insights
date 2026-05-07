@@ -129,7 +129,7 @@ This consolidated video demonstrates key insights from the Power BI dashboards a
 
 🎬 **Watch Full Visualization Overview**
 
-[Click here to view the project video](PASTE-YOUR-VIDEO-LINK-HERE)
+[Click here to view the project]https://drive.google.com/file/d/1qFVSMbamSgFNm_DCjzRGK82JiK29EdZ7/view?usp=sharing
 
 ---
 
