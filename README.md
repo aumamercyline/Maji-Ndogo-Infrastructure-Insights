@@ -39,7 +39,7 @@ The dataset used in this project is hosted externally.
 
 This visualization shows the count of water sources distributed across different provinces in Maji Ndogo.
 
-![Water Sources by Province](images/water_sources_by_province.png)
+![Water Sources by Province]https://github.com/aumamercyline/Maji-Ndogo-Infrastructure-Insights/blob/main/Images/1st.png
 
 ### Insights
 - Some provinces contain significantly higher numbers of water sources than others
