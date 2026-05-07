@@ -79,7 +79,7 @@ This visualization compares the population served in urban and rural locations.
 
 This visualization analyzes how different water source types are distributed across towns.
 
-![Water Source Distribution by Town](images/water_source_distribution_town.png)
+![Water Source Distribution by Town]https://github.com/aumamercyline/Maji-Ndogo-Infrastructure-Insights/blob/main/Images/4th.png
 
 ### Insights
 - Certain towns rely heavily on specific water source types
