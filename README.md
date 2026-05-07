@@ -112,3 +112,32 @@ The purpose of this project is to:
 # 📌 Summary
 
 This project uses Power BI visualizations to analyze water access and infrastructure distribution across Maji Ndogo. The analysis reveals regional disparities, dependence on shared water systems, and gaps in reliable infrastructure. These insights can support strategic planning and improve decision-making for future water access improvements.
+
+---
+
+# 🎥 Project Visualization Video
+
+The video below provides a complete walkthrough of all project visualizations, including:
+
+- ⏱️ Water queue time analysis (by day, hour, gender, and province)
+- 🌍 Water pollution levels and percentage distribution by province
+- 🚨 Crime analysis by victim gender, time (day & hour), and province
+
+This consolidated video demonstrates key insights from the Power BI dashboards and highlights patterns in water access, environmental conditions, and public safety.
+
+---
+
+🎬 **Watch Full Visualization Overview**
+
+[Click here to view the project video](PASTE-YOUR-VIDEO-LINK-HERE)
+
+---
+
+## 📌 Summary
+
+This video provides an end-to-end visual understanding of:
+- Infrastructure efficiency
+- Environmental health challenges
+- Crime distribution patterns
+
+These insights support data-driven decision-making for improving public services and resource allocation in Maji Ndogo.
