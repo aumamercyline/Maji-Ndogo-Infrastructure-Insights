@@ -52,7 +52,7 @@ This visualization shows the count of water sources distributed across different
 
 This visualization highlights the number of people served by each type of water source.
 
-![Population Served by Water Source](images/population_served_by_source.png)
+![Population Served by Water Source]https://github.com/aumamercyline/Maji-Ndogo-Infrastructure-Insights/blob/main/Images/2%20scr.png
 
 ### Insights
 - Shared taps serve the largest proportion of the population
