@@ -66,7 +66,7 @@ This visualization highlights the number of people served by each type of water 
 
 This visualization compares the population served in urban and rural locations.
 
-![Urban vs Rural Distribution](images/urban_vs_rural.png)
+![Urban vs Rural Distribution]https://github.com/aumamercyline/Maji-Ndogo-Infrastructure-Insights/blob/main/Images/3scr.png
 
 ### Insights
 - Rural areas account for a larger share of the population served
