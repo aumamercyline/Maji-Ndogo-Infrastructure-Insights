@@ -1,152 +1,114 @@
 # Data-Driven Infrastructure Planning: Improving Water Access & Public Safety in Maji Ndogo Using Power BI
 
+This project focuses on analyzing water accessibility, infrastructure distribution, and public service challenges in Maji Ndogo using Power BI. The visualizations provide insights into water source availability, population coverage, and regional disparities to support data-driven decision-making.
 
-This project uses Power BI to analyze water accessibility, crime trends, and infrastructure investment needs in Maji Ndogo. It provides data-driven insights to support decision-making and improve public services.
+---
 
-# Maji Ndogo Water Access & Infrastructure Analysis
+# Maji Ndogo Water Access & Infrastructure Visualizations
 
 ## Overview
-This project analyzes water access challenges in Maji Ndogo, a town facing significant issues with water availability and infrastructure.
+This project explores water access patterns across provinces and towns in Maji Ndogo using interactive Power BI visualizations.
 
-Using Excel and Power BI, I developed visualizations to understand water source distribution, population access, and infrastructure gaps. The analysis is designed to support data-driven decision-making for improving water accessibility.
+The analysis focuses on:
+- Distribution of water sources across provinces
+- Population served by each water source type
+- Urban vs rural access disparities
+- Town-level dependence on specific water systems
+- Infrastructure gaps affecting reliable water access
 
-## Objectives
-- Assess types of water sources across provinces  
-- Analyze population served by each water source  
-- Identify gaps in access to basic water  
-- Estimate the budget required for infrastructure improvements  
-- Provide insights to support strategic decision-making  
+The visualizations help identify underserved regions and support strategic planning for infrastructure improvements.
+
+---
 
 ## Tools Used
-- Excel  
-- Power BI  
+- Microsoft Excel – Data Cleaning & Preparation
+- Power BI – Data Visualization & Analysis
+
+---
 
 ## Dataset
-The dataset used in this project is large and hosted externally.
+The dataset used in this project is hosted externally.
 
-[Download Dataset](PASTE-YOUR-GOOGLE-DRIVE-LINK)
-
-## Water Source Visualizations
-
-This section presents key visualizations developed in Power BI to analyze water access and distribution across Maji Ndogo.
-
-### Key Insights
-- Shared taps serve the largest portion of the population, indicating high dependency on communal water sources  
-- Wells and in-home taps contribute significantly, but are less widely distributed  
-- A number of households rely on broken in-home taps, highlighting infrastructure challenges  
-- Rural areas have lower access to reliable water sources compared to urban areas  
-- Some towns show limited diversity in water sources, suggesting unequal distribution  
-
-### Visualizations Included
-- Count of water sources by province  
-- Number of people served by location and water source  
-- Total population served by each type of water source  
-- Distribution of water sources by town and type  
-
-![Water Source Analysis](images/water-source-dashboard.png)
-*Overview of water source distribution and population served across Maji Ndogo*
-
-# 📊 Water Access & Infrastructure Visualizations
-
-This project presents a set of Power BI visualizations exploring water access, infrastructure distribution, and service delivery across different regions, provinces, and water sources.
-
-The visuals help uncover patterns, disparities, and relationships between population, cost, and infrastructure coverage.
+[Download Dataset](PASTE-YOUR-DATASET-LINK)
 
 ---
 
-## 1. 📌 Overall Visualizations Overview
+# 📊 Water Access Visualizations
 
-This section presents the full set of visual insights created in Power BI, showing relationships between regions, infrastructure types, and service delivery outcomes.
+## 1. 🗺️ Water Sources by Province
 
-![Overall Visualizations](images/full_visualizations.png)
+This visualization shows the count of water sources distributed across different provinces in Maji Ndogo.
 
-**Key insights:**
-- Comparison of infrastructure improvements across regions
-- Cost distribution per citizen across interventions
-- Identification of high and low performing areas
-- Overall patterns in water access and service delivery
+![Water Sources by Province](images/water_sources_by_province.png)
 
----
-
-## 2. 📍 Selected Province: Akatsi
-
-This visualization focuses on **Akatsi province** and how it performs compared to other provinces.
-
-![Akatsi Province Visualization](images/akatsi.png)
-
-**Insights:**
-- Akatsi shows **moderate infrastructure development**
-- It performs lower than top provinces in terms of coverage
-- Cost per citizen is relatively consistent but impact varies
-- Highlights need for targeted improvements
-
-**Relation to other insights:**
-- Compared to other provinces, Akatsi reflects mid-level service delivery
-- Helps identify inequality in infrastructure distribution
-- Shows where investment can improve regional balance
+### Insights
+- Some provinces contain significantly higher numbers of water sources than others
+- Water infrastructure distribution varies widely across regions
+- Provinces with higher water source counts may still experience service pressure depending on population size
 
 ---
 
-## 3. 📍 Selected Location Analysis
+## 2. 🚰 Population Served by Water Source Type
 
-This visualization zooms into a specific location to analyze local-level infrastructure and service patterns.
+This visualization highlights the number of people served by each type of water source.
 
-![Location Visualization](images/location.png)
+![Population Served by Water Source](images/population_served_by_source.png)
 
-**Insights:**
-- The selected location shows unique distribution patterns in service access
-- Infrastructure availability differs significantly from regional averages
-- Some services are concentrated while others are limited
-
-**Relation to other insights:**
-- Highlights gaps between local and provincial performance
-- Shows how regional averages can hide local inequalities
-- Supports targeted micro-level planning
+### Insights
+- Shared taps serve the largest proportion of the population
+- Wells and in-home taps also contribute significantly to water access
+- Broken in-home taps indicate infrastructure challenges
+- River water sources serve a smaller population compared to other sources
 
 ---
 
-## 4. 🚰 Shared Water Source Types Distribution
+## 3. 🌍 Urban vs Rural Population Distribution
 
-This visualization shows how different water source types are distributed across towns.
+This visualization compares the population served in urban and rural locations.
 
-![Water Source Types](images/water_sources.png)
+![Urban vs Rural Distribution](images/urban_vs_rural.png)
 
-**Insights:**
-- Shared water sources are unevenly distributed across regions
-- Some towns rely heavily on specific water systems
-- Boreholes and piped systems dominate in selected areas
-- Indicates infrastructure concentration patterns
-
-**Relation to other insights:**
-- Water source type strongly influences access levels
-- Helps explain differences in service quality across regions
-- Supports infrastructure diversification planning
+### Insights
+- Rural areas account for a larger share of the population served
+- Infrastructure accessibility differs between rural and urban communities
+- The findings highlight the need for targeted infrastructure investment in underserved areas
 
 ---
 
-## 5. 🌍 Harare Water Source: Wells Distribution
+## 4. 📍 Water Source Distribution by Town
 
-This visualization focuses on **well water usage in Harare** and its relationship with other infrastructure metrics.
+This visualization analyzes how different water source types are distributed across towns.
 
-![Harare Wells Visualization](images/harare_wells.png)
+![Water Source Distribution by Town](images/water_source_distribution_town.png)
 
-**Insights:**
-- Wells remain a key water source in Harare
-- Distribution is uneven across sub-regions
-- Indicates reliance on decentralized water systems
-
-**Relation to other insights:**
-- Areas with higher well usage often have lower piped infrastructure coverage
-- Shows correlation between infrastructure gaps and alternative water sources
-- Helps identify priority areas for modernization
+### Insights
+- Certain towns rely heavily on specific water source types
+- Wells and shared taps dominate in multiple towns
+- Some towns show limited diversity in water infrastructure
+- Infrastructure distribution patterns vary significantly between towns
 
 ---
 
-## 📌 Tools Used
-- Microsoft Excel (Data Cleaning & Preparation)
-- Power BI (Data Visualization)
+# 📌 Key Findings
+
+- Shared taps are the most widely used water source in Maji Ndogo
+- Rural regions contain a larger proportion of the population served
+- Infrastructure distribution differs significantly across provinces and towns
+- Some towns depend heavily on limited water source types
+- Broken water infrastructure affects service reliability in several locations
 
 ---
 
-## 📊 Summary
-These visualizations provide insights into water infrastructure distribution, highlighting disparities across provinces, locations, and water source types. They support data-driven decisions for improving access and resource allocation.
+# 📈 Project Purpose
+
+The purpose of this project is to:
+- Identify infrastructure gaps in water access
+- Support data-driven planning and resource allocation
+- Improve understanding of regional service disparities
+- Provide visual insights for infrastructure decision-making
+
+---
+
+# 📌 Summary
+
+This project uses Power BI visualizations to analyze water access and infrastructure distribution across Maji Ndogo. The analysis reveals regional disparities, dependence on shared water systems, and gaps in reliable infrastructure. These insights can support strategic planning and improve decision-making for future water access improvements.
