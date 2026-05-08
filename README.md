@@ -129,14 +129,15 @@ This video provides an end-to-end visual understanding of:
 
 These insights support data-driven decision-making for improving public services and resource allocation in Maji Ndogo.
 
-# Data-Driven Infrastructure Planning: Improving Water Access & Public Safety in Maji Ndogo Using Power BI
+
+
+#  Maji Ndogo Water Access & Infrastructure Report | Power BI
 
 ## Overview
-This report is part of the broader **Data-Driven Infrastructure Planning: Improving Water Access & Public Safety in Maji Ndogo Using Power BI** project portfolio.
+This report is part of the broader **Data-Driven Infrastructure Planning: Improving Water Access & Public Safety in Maji Ndogo Using Power BI** project.
 
-The report focuses on analyzing water accessibility, infrastructure improvements, budget allocation, and water source distribution across different provinces in Maji Ndogo through interactive Power BI dashboards and data storytelling techniques.
+The report analyzes water accessibility, infrastructure improvements, budget allocation, and water source distribution across different provinces in Maji Ndogo using interactive Power BI dashboards and data storytelling techniques.
 
----
 
 ## Project Objectives
 - Analyze access to basic water services
@@ -144,8 +145,6 @@ The report focuses on analyzing water accessibility, infrastructure improvements
 - Monitor infrastructure improvement initiatives
 - Track budgeted improvement costs by province
 - Provide actionable insights through interactive dashboards
-
----
 
 ## Tools & Skills Used
 - Power BI
@@ -156,8 +155,6 @@ The report focuses on analyzing water accessibility, infrastructure improvements
 - Interactive Dashboard Design
 - Data Visualization
 - Analytical Reporting
-
----
 
 ## Report Features
 
@@ -182,8 +179,6 @@ The report tracks several improvement initiatives, including:
 - Install public taps
 - UV and RO filter installations
 
----
-
 ## Insights Delivered
 This dashboard helps identify:
 - Provinces with lower access to clean water
@@ -192,14 +187,10 @@ This dashboard helps identify:
 - Budget allocation trends
 - Service gaps between urban and rural regions
 
----
-
 ## Dashboard Preview
 *(Attach dashboard screenshot below)*
 
 ![Dashboard Preview](./images/maji-ndogo-dashboard.png)
-
----
 
 ## Dashboard Walkthrough
 *(Attach video walkthrough link below)*
