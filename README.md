@@ -128,3 +128,89 @@ This video provides an end-to-end visual understanding of:
 - Crime distribution patterns
 
 These insights support data-driven decision-making for improving public services and resource allocation in Maji Ndogo.
+
+# Data-Driven Infrastructure Planning: Improving Water Access & Public Safety in Maji Ndogo Using Power BI
+
+## Overview
+This report is part of the broader **Data-Driven Infrastructure Planning: Improving Water Access & Public Safety in Maji Ndogo Using Power BI** project portfolio.
+
+The report focuses on analyzing water accessibility, infrastructure improvements, budget allocation, and water source distribution across different provinces in Maji Ndogo through interactive Power BI dashboards and data storytelling techniques.
+
+---
+
+## Project Objectives
+- Analyze access to basic water services
+- Compare rural and urban water source distribution
+- Monitor infrastructure improvement initiatives
+- Track budgeted improvement costs by province
+- Provide actionable insights through interactive dashboards
+
+---
+
+## Tools & Skills Used
+- Power BI
+- Power Query
+- DAX Measures
+- Data Modeling
+- Data Cleaning & Transformation
+- Interactive Dashboard Design
+- Data Visualization
+- Analytical Reporting
+
+---
+
+## Report Features
+
+### KPI Metrics
+- Percentage with basic water access
+- Percentage without basic water access
+- Total budgeted improvement cost
+
+### Interactive Visualizations
+- Province comparison charts
+- Water source analysis
+- Urban vs Rural comparisons
+- Budget allocation breakdown
+- Improvement tracking visuals
+- Province map visualization
+
+### Improvement Analysis
+The report tracks several improvement initiatives, including:
+- Drill wells
+- Install nearby taps
+- Repair infrastructure
+- Install public taps
+- UV and RO filter installations
+
+---
+
+## Insights Delivered
+This dashboard helps identify:
+- Provinces with lower access to clean water
+- Areas requiring urgent infrastructure improvements
+- Water source distribution patterns
+- Budget allocation trends
+- Service gaps between urban and rural regions
+
+---
+
+## Dashboard Preview
+*(Attach dashboard screenshot below)*
+
+![Dashboard Preview](./images/maji-ndogo-dashboard.png)
+
+---
+
+## Dashboard Walkthrough
+*(Attach video walkthrough link below)*
+
+[Watch Dashboard Walkthrough](#)
+
+---
+
+## What This Report Demonstrates
+- End-to-end dashboard development
+- Data storytelling with Power BI
+- KPI and performance analysis
+- Interactive reporting techniques
+- Business intelligence reporting skills
