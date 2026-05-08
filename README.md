@@ -201,3 +201,194 @@ This dashboard helps identify:
 - KPI and performance analysis
 - Interactive reporting techniques
 - Business intelligence reporting skills
+
+# Maji Ndogo Water Infrastructure Project – Dashboard Development (2022–2027)
+
+## Project Continuation Overview
+This phase of the Maji Ndogo Water Infrastructure Project focuses on developing interactive Power BI dashboards to monitor project progress and evaluate updated infrastructure costs from 2022 to 2027.
+
+Using updated datasets collected 5 years after the initial project implementation, the dashboards provide insights into:
+- National water improvement progress
+- Infrastructure installation performance
+- Budget and cumulative costs
+- Vendor pricing analysis
+- Infrastructure distribution across provinces and towns
+
+The project was developed using Microsoft Excel for data preparation and Microsoft Power BI for dashboard creation, data modeling, and visualization.
+
+# Dashboard 1: National Water Improvement Progress Dashboard (2022–2027)
+
+## Dashboard Objective
+To visualize and monitor the progress of water infrastructure improvements across Maji Ndogo provinces between 2022 and 2027.
+
+## Key Metrics & Insights Visualized
+- Population with basic water access
+- Total people helped
+- Cumulative infrastructure costs
+- Total cumulative budget
+- Project completion percentage
+- Remaining incomplete projects
+- Province-level investment distribution
+- Aggregated infrastructure improvements:
+  - Install RO Filters
+  - Install UV & RO Filters
+  - Drill Wells
+  - Repair Infrastructure
+  - Install Public Taps
+
+## Interactive Dashboard Features
+- Province slicers
+- Dynamic KPI cards
+- Interactive maps
+- Pie charts
+- Bar charts
+- Timeline filtering
+- Cross-filtering between visuals
+
+# Dashboard 2: Vendor Infrastructure Cost Analysis Dashboard
+
+## Dashboard Objective
+To analyze the updated costs requested by vendors supplying and installing water infrastructure after 5 years of project implementation.
+
+## Key Metrics & Insights Visualized
+- Vendor cost comparison
+- Infrastructure installation costs
+- Vendor pricing variations
+- Project completion by town
+- Rural vs Urban project distribution
+- Infrastructure category filtering
+- Updated infrastructure pricing trends
+
+## Interactive Dashboard Features
+- Vendor tables
+- Infrastructure slicers
+- Timeline filters
+- Regional maps
+- Location filtering
+- Dynamic infrastructure selection
+
+# Dashboard Development Process
+
+## 1. Data Collection
+- Gathered original project datasets
+- Collected updated infrastructure cost datasets after 5 years
+- Imported datasets into Excel and Power BI
+
+## 2. Data Cleaning & Preparation
+- Removed duplicate records
+- Handled missing values
+- Corrected inconsistent entries
+- Standardized column names
+- Formatted dates and numerical fields
+- Validated data quality
+
+## 3. Data Modeling
+Created relationships between:
+- Infrastructure cost tables
+- Vendor tables
+- Location tables
+- Water source data
+- Project progress tables
+- Pollution datasets
+- Visit records
+
+Built a structured relational data model within Power BI.
+
+## 4. DAX Measures & Calculations
+Developed DAX calculations for:
+- Cumulative costs
+- Cumulative budgets
+- Completion percentages
+- Remaining project percentages
+- Total population helped
+- Vendor cost aggregation
+- Dynamic KPI calculations
+
+## 5. Dashboard Design & Visualization
+Designed interactive dashboards using:
+- KPI Cards
+- Pie Charts
+- Bar Charts
+- Tables
+- Maps
+- Slicers
+- Timeline Filters
+
+Applied:
+- Consistent dashboard formatting
+- Visual storytelling techniques
+- User-friendly layouts
+- Interactive filtering functionality
+
+## 6. Insight Generation
+- Compared initial and updated infrastructure costs
+- Identified high-cost improvement categories
+- Evaluated vendor pricing trends
+- Assessed province-level project performance
+- Monitored project completion progress
+
+# Skills Demonstrated
+
+## Data Analytics Skills
+- Data Cleaning
+- Data Transformation
+- Data Validation
+- Exploratory Data Analysis
+- Trend Analysis
+- Comparative Analysis
+- Insight Generation
+
+## Power BI Skills
+- Dashboard Development
+- Interactive Visualization Design
+- Data Modeling
+- Relationship Management
+- DAX Calculations
+- KPI Development
+- Drill-through Analysis
+- Report Formatting
+- Dashboard Storytelling
+
+## Excel Skills
+- Data Preparation
+- Spreadsheet Structuring
+- Formula Application
+- Data Formatting
+
+## Visualization Skills
+- KPI Visualization
+- Interactive Reporting
+- Geospatial Mapping
+- Dashboard Layout Design
+- Visual Storytelling
+
+## Problem-Solving Skills
+- Analytical Thinking
+- Infrastructure Cost Evaluation
+- Business Intelligence Reporting
+- Decision Support Analysis
+
+# Tools Used
+- Microsoft Excel
+- Microsoft Power BI
+
+
+# Updated Dataset
+[Download Updated Dataset](PASTE-YOUR-DATASET-LINK-HERE)
+
+
+# Dashboard Video Walkthrough
+[Watch Dashboard Video](PASTE-YOUR-DASHBOARD-VIDEO-LINK-HERE)
+
+
+# Dashboard Screenshots
+
+## National Water Improvement Progress Dashboard
+*(Insert Dashboard Screenshot Here)*
+
+## Vendor Infrastructure Cost Analysis Dashboard
+*(Insert Dashboard Screenshot Here)*
+
+
+# Project Outcome
+The dashboards successfully provide an interactive and data-driven view of the Maji Ndogo Water Infrastructure Project by tracking national improvement progress, evaluating infrastructure costs, and supporting strategic decision-making through business intelligence and data visualization.
