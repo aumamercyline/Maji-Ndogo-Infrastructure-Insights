@@ -384,7 +384,7 @@ Applied:
 # Dashboard Screenshots
 
 ## National Water Improvement Progress Dashboard
-*(Insert Dashboard Screenshot Here)*
+https://github.com/aumamercyline/Maji-Ndogo-Infrastructure-Insights/blob/main/Images/Progress%20image.png
 
 ## Vendor Infrastructure Cost Analysis Dashboard
 *(Insert Dashboard Screenshot Here)*
