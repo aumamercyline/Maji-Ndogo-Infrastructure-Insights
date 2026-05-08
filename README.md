@@ -187,8 +187,7 @@ This dashboard helps identify:
 - Budget allocation trends
 - Service gaps between urban and rural regions
 
-## Dashboard Preview
-*(Attach dashboard screenshot below)*
+## Report Preview
 
 ![Dashboard Preview]https://github.com/aumamercyline/Maji-Ndogo-Infrastructure-Insights/blob/main/Images/ReportBI.png
 
