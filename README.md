@@ -190,14 +190,11 @@ This dashboard helps identify:
 ## Dashboard Preview
 *(Attach dashboard screenshot below)*
 
-![Dashboard Preview](./images/maji-ndogo-dashboard.png)
+![Dashboard Preview]https://github.com/aumamercyline/Maji-Ndogo-Infrastructure-Insights/blob/main/Images/ReportBI.png
 
 ## Dashboard Walkthrough
-*(Attach video walkthrough link below)*
 
-[Watch Dashboard Walkthrough](#)
-
----
+[Watch Dashboard Walkthrough]https://drive.google.com/file/d/1_3I4eF19HPbYT2k2KxMD2116saRTS9hd/view?usp=sharing
 
 ## What This Report Demonstrates
 - End-to-end dashboard development
