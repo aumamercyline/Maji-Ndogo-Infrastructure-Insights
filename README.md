@@ -372,14 +372,11 @@ Applied:
 - Microsoft Excel
 - Microsoft Power BI
 
-
 # Updated Dataset
 [Download Updated Dataset]https://docs.google.com/spreadsheets/d/1-BsdiA0tjHGAhTkCIyDnISlD5Na_f0C3/edit?usp=sharing&ouid=111465049829121971330&rtpof=true&sd=true
 
-
 # Dashboard Video Walkthrough
 [Watch Dashboard Video]https://drive.google.com/file/d/10mrOQr7S8eg5ojTCLMCH3ZKUHVEYzIsK/view?usp=sharing
-
 
 # Dashboard Screenshots
 
@@ -387,8 +384,7 @@ Applied:
 https://github.com/aumamercyline/Maji-Ndogo-Infrastructure-Insights/blob/main/Images/Progress%20image.png
 
 ## Vendor Infrastructure Cost Analysis Dashboard
-*(Insert Dashboard Screenshot Here)*
-
+https://github.com/aumamercyline/Maji-Ndogo-Infrastructure-Insights/blob/main/Images/vendors%20cost.png
 
 # Project Outcome
 The dashboards successfully provide an interactive and data-driven view of the Maji Ndogo Water Infrastructure Project by tracking national improvement progress, evaluating infrastructure costs, and supporting strategic decision-making through business intelligence and data visualization.
