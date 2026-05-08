@@ -374,11 +374,11 @@ Applied:
 
 
 # Updated Dataset
-[Download Updated Dataset](PASTE-YOUR-DATASET-LINK-HERE)
+[Download Updated Dataset]https://docs.google.com/spreadsheets/d/1-BsdiA0tjHGAhTkCIyDnISlD5Na_f0C3/edit?usp=sharing&ouid=111465049829121971330&rtpof=true&sd=true
 
 
 # Dashboard Video Walkthrough
-[Watch Dashboard Video](PASTE-YOUR-DASHBOARD-VIDEO-LINK-HERE)
+[Watch Dashboard Video]https://drive.google.com/file/d/10mrOQr7S8eg5ojTCLMCH3ZKUHVEYzIsK/view?usp=sharing
 
 
 # Dashboard Screenshots
